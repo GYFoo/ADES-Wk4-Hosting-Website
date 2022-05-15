@@ -1,0 +1,13 @@
+html {
+    max-width: 500px;
+    min-height: 768px;
+    height: 100%;
+    margin: auto;
+}
+
+#userDetails {
+    width: 280px;
+    font-size: 14pt;
+    font-weight: bold;
+    resize: none;
+}
